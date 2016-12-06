@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+body{font-family:Verdana; font-size:16px; margin:0; text-align:center}
+p{margin:2px}
+#Container{margin:0 auto; width:900px;}
+#Header{height:118px; margin-bottom:5px; background-color:rgb(230,230,230);}
+#PageBody{height:500px; margin-bottom:5px;}
+#SideBar{float:left; width:200px; height:500px; background:#9ff;}
+#MainBody{float:right; width:695px; height:500px; background:#cff;}
+#Footer{height:60px; background-color:rgb(230,230,230); text-align:center; font-family:Courier New; font-size:12px; padding-top:10px;}
+img{float:left;}
+span{width:50px; margin-top:50px; font-size:20px; font-family:华文新魏; cursor:pointer;}
+ul{list-style-type:none;}
+h3{text-align:center; color:red; font-size:24px;}
+
